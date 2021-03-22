@@ -1,13 +1,1 @@
-<!doctype html>
-<html>
-  <head>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
-    <script src="style.css" type="text/css" charset="utf-8"></script>
-    <title>Train Simulator</title>
-  </head>
-  <body>
-    <button>title</button>
-    <h3>Train Simulator</h3>
-  </body>
-</html>
+
